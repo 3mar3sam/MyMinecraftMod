@@ -1,5 +1,6 @@
 {
   "itemGroup.examplemod": "Example Mod Tab",
+  "creativetab.examplemod.tab": "Muslim Mod",
   "block.examplemod.example_block": "Example Block",
   "item.examplemod.example_item": "Example Item",
 
@@ -9,5 +10,6 @@
   "examplemod.configuration.items": "Item List",
   "examplemod.configuration.logDirtBlock": "Log Dirt Block",
   "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "examplemod.configuration.magicNumber": "Magic Number",
+  "item.minecraft.totem_of_undying": "بسم الله"
 }

@@ -1,0 +1,10 @@
+{
+  "item.totem.use": {
+    "sounds": [
+      {
+        "name": "item/totem/totem",
+        "stream": false
+      }
+    ]
+  }
+}
