@@ -1,4 +1,156 @@
 {
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "records/13",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.cat": {
+    "sounds": [
+      {
+        "name": "records/cat",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.blocks": {
+    "sounds": [
+      {
+        "name": "records/blocks",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.chirp": {
+    "sounds": [
+      {
+        "name": "records/chirp",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.far": {
+    "sounds": [
+      {
+        "name": "records/far",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.mall": {
+    "sounds": [
+      {
+        "name": "records/mall",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.mellohi": {
+    "sounds": [
+      {
+        "name": "records/mellohi",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.stal": {
+    "sounds": [
+      {
+        "name": "records/stal",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.strad": {
+    "sounds": [
+      {
+        "name": "records/strad",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.ward": {
+    "sounds": [
+      {
+        "name": "records/ward",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.11": {
+    "sounds": [
+      {
+        "name": "records/11",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.wait": {
+    "sounds": [
+      {
+        "name": "records/wait",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.pigstep": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.otherside": {
+    "sounds": [
+      {
+        "name": "records/otherside",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.5": {
+    "sounds": [
+      {
+        "name": "records/5",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.relic": {
+    "sounds": [
+      {
+        "name": "records/relic",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.creator": {
+    "sounds": [
+      {
+        "name": "records/creator",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.creator_music_box": {
+    "sounds": [
+      {
+        "name": "records/creator_music_box",
+        "stream": false
+      }
+    ]
+  },
+  "music_disc.precipice": {
+    "sounds": [
+      {
+        "name": "records/precipice",
+        "stream": false
+      }
+    ]
+  },
   "item.totem.use": {
     "sounds": [
       {
