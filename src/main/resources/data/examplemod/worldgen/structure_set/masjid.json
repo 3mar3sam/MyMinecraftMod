@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "examplemod:masjid",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 12,
+    "salt": 9482015
+  }
+}

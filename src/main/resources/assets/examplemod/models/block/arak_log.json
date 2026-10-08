@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "examplemod:block/arak_log",
+    "side": "examplemod:block/arak_log"
+  }
+}
