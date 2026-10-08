@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "muslimmod:block/arak_log",
+    "side": "muslimmod:block/arak_log"
+  }
+}

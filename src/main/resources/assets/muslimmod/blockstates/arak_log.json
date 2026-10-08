@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "muslimmod:block/arak_log"
+    },
+    "axis=x": {
+      "model": "muslimmod:block/arak_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z": {
+      "model": "muslimmod:block/arak_log",
+      "x": 90,
+      "y": 0
+    }
+  }
+}

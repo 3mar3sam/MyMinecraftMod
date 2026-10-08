@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "muslimmod:block/arak_leaves"
+      }
+    }
+  ]
+}

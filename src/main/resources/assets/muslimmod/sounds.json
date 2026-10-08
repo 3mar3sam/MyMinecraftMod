@@ -1,0 +1,32 @@
+{
+  "custom_parry": {
+    "category": "player",
+    "sounds": [
+      "muslimmod:custom_parry"
+    ]
+  },
+  "custom_dash": {
+    "category": "player",
+    "sounds": [
+      "muslimmod:custom_dash"
+    ]
+  },
+  "shemagh_dash": {
+    "category": "player",
+    "sounds": [
+      "muslimmod:shemagh_dash"
+    ]
+  },
+  "custom_plunge": {
+    "category": "player",
+    "sounds": [
+      "muslimmod:custom_plunge"
+    ]
+  },
+  "custom_pierce": {
+    "category": "player",
+    "sounds": [
+      "muslimmod:custom_pierce"
+    ]
+  }
+}

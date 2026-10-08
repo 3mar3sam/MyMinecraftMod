@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "muslimmod:arak_log",
+          "functions": [
+            { "function": "minecraft:explosion_decay" }
+          ]
+        }
+      ]
+    }
+  ]
+}
